@@ -1,6 +1,6 @@
 {
-  "name": "getcomposer",
-  "version": "1.0.4",
+  "name": "getcompser",
+  "version": "1.3.0",
   "description": "Install composer using npm",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "composer",
     "php"
   ],
+  "repository": "https://github.com/jadjoubran/getcomposer",
   "author": "Jad Joubran jad@jadjoubran.com",
   "license": "MIT",
   "dependencies": {
