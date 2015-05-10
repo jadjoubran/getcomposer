@@ -1,6 +1,6 @@
 {
   "name": "getcomposer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Install composer using npm",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   	"postupdate": "node index.js"
   },
   "bin": {
-  	"composer" : "./composer.phar"
+  	"composer": "./composer.phar"
   }
 }
