@@ -13,7 +13,7 @@
 			chalk.yellow('\nDownloading composer\n')
 			);
 
-		var command = exec('cd bin && php -r "readfile(\'https://getcomposer.org/installer\');" | php');
+		var command = exec('php -r "readfile(\'https://getcomposer.org/installer\');" | php');
 
 		download_progress_id = setInterval(function(){
 			process.stdout.write('.');
