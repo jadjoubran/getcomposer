@@ -18,5 +18,8 @@
   "scripts": {
   	"postinstall": "node index.js",
   	"postupdate": "node index.js"
+  },
+  "bin": {
+  	"composer" : "./composer.phar"
   }
 }
