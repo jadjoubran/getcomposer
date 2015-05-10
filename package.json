@@ -1,6 +1,6 @@
 {
   "name": "getcomposer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Install composer using npm",
   "main": "index.js",
   "scripts": {
