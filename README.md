@@ -15,7 +15,7 @@ npm install getcomposer
 composer self-update
 
 #if you have it local
-npm run composer self-update
+php node_modules/getcomposer/composer.phar self-update
 
 ````
 
